@@ -1,9 +1,3 @@
-print('Michael Miles')
-print('o----')
-print(' ||||')
-print('*' * 10)
-
-price = 10
-price = 20
-is_published = False
-print(price)
+name = input('What is your name? ')
+favorite_color = input('What is your favorite color ' + name + '? ')
+print(name + ' likes ' + favorite_color)
