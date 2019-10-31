@@ -1,3 +1,4 @@
-name = input('What is your name? ')
-favorite_color = input('What is your favorite color ' + name + '? ')
-print(name + ' likes ' + favorite_color)
+birthYear = input('Birth Year: ')
+print(type(birthYear))
+age = 2019 - int(birthYear)
+print(age)
