@@ -1,4 +1,6 @@
 birthYear = input('Birth Year: ')
-print(type(birthYear))
+# print(type(birthYear))
 age = 2019 - int(birthYear)
+print(type(birthYear))
+print(type(age))
 print(age)

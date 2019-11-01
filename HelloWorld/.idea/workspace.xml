@@ -115,6 +115,9 @@
       <workItem from="1572442516030" duration="1200000" />
       <workItem from="1572461636049" duration="8000" />
       <workItem from="1572511354977" duration="568000" />
+      <workItem from="1572520536259" duration="768000" />
+      <workItem from="1572529568955" duration="915000" />
+      <workItem from="1572602786658" duration="2574000" />
     </task>
     <servers />
   </component>
@@ -135,6 +138,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HelloWorld$app.coverage" NAME="app Coverage Results" MODIFIED="1572511909690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HelloWorld$app.coverage" NAME="app Coverage Results" MODIFIED="1572633018402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
